@@ -1,0 +1,36 @@
+
+h1 {
+    color: brown;
+}
+
+* {
+    border: solid;
+}
+.header{
+    background-color: rgb(157, 255, 127);
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.information{
+    background-color: chartreuse;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.grid{
+ flex-wrap: wrap;
+    display:flex;
+    justify-content: space-evenly;
+}
+
+.item{
+    background-color: crimson;
+   }
+
+   .media{
+    background-color: rgb(33, 20, 220);
+    display: flex;
+    justify-content: space-between;
+ 
+   }
